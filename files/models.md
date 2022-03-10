@@ -94,7 +94,7 @@ is enabled). You should never change this property on your models.
 
 ```js
 {
-  "globaId": "pets"
+  "globalId": "pets"
 }
 ```
 
